@@ -1,30 +1,23 @@
-# jemdoc: menu{MENU}{index.html}, nofooter  
-==Zhongruo Wang 
+# jemdoc: menu{MENU}{index.html}, nofooter
+==Zhongruo Wang
 
 ~~~
-{}{img_left}{bio.jpeg}{alt text}{200}{200}
+# {}{img_left}{bio.jpeg}{alt text}{200}{200}
 PhD Candidate,\n Department of Mathematics, \n UC Davis\n
-[https://leetcode.com/zhongruo/ LeetCode],[https://www.linkedin.com/in/zhongruo-wang-a24a5078/ Linkedin]
+[https://www.linkedin.com/in/zhongruo-wang-a24a5078/ Linkedin]
 ~~~
 
 == About me
 I am a Phd candidate in ([http://appliedmath.ucdavis.edu/ GGAM]) at UC Davis. I am lucky working with [https://www.math.ucdavis.edu/~sqma/ Shiqian Ma] and [https://sites.google.com/view/kriznakumar/home Krishnakumar Balasubramanian].
 
-I am also working with Lingzhou Xue, Bingyuan Liu and [https://www.researchgate.net/profile/R_Bradley R.Mark Bradley]
+# I am also working with Lingzhou Xue, Bingyuan Liu and [https://www.researchgate.net/profile/R_Bradley R.Mark Bradley]
 
 == Research
-My research interests include 
+My research interests include
 - Stochastic optimization, especially zeroth order optimization with variance reduction
-- Deep learning especially adversarial network
+- Zeroth order min-max optimization in deterministic case and stochastic case
+- Policy optimization, policy gradient methods
 
-== Machine Learning Project
-- Predicting Commodity Future Price with Gradient Boosting Regressor (06/2018)
-- Predict consumer spending and higher retail volume during different times throughout the year from insufficient data source (01/2020 ongoing)
-
-== Publications 
-. Improved Zeroth-Order Algorithms for Nonconvex Saddle-Point Optimization (with Shiqian Ma and Zhongruo Wang)(In preparing)
-. Manifold Proximal Linear Methods for Sparse Spectral Clustering with Application to Single-Cell Data Analysis(with Binyuan Liu, Shiqian Ma, Linzhou Xue)([ncvx.pdf link])
-
-
-
-
+== Publications
+. Improved Zeroth-Order Algorithms for Nonconvex Saddle-Point Optimization (with Shiqian Ma and Zhongruo Wang)([https://arxiv.org/abs/2007.09524 Arxiv])
+. Manifold Proximal Linear Methods for Sparse Spectral Clustering with Application to Single-Cell Data Analysis(with Binyuan Liu, Shiqian Ma, Linzhou Xue)([https://arxiv.org/abs/2001.07819 Arxiv])
