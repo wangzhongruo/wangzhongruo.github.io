@@ -32,6 +32,7 @@ My research interests include
 . Reinforcement Learning in Inference Time: A Perspective from Successive Policy Iterations (with Xiangyu Zhang, Chenghao Li, et al.), NeurIPS 2025 Workshop on Reasoning and Planning for Large Language Models.
 . GT2Vec: Large Language Models for Knowledge Graph Augmented Text Embedding (with Jiacheng Lin, Kun Qian, et al.), KDD 2024 Workshop on Structured Knowledge for Large Language Models.
 . Automatic Dataset Construction (ADC): Sample Collection, Data Curation, and Beyond (with Minghao Liu, Zonglin Di, Jiaheng Wei, et al.), arXiv:2408.11338, 2024.
+. GmNet: Revisiting Gating Mechanisms From A Frequency View (with Y. Wang, X. Ma, Y. Zhang, et al.), ICLR 2025.
 
 === Optimization
 . Zeroth-Order Algorithms for Nonconvex-Strongly-Concave Minimax Problems with Improved Complexities (with Krishnakumar Balasubramanian, Shiqian Ma, Meisam Razaviyayn), Journal of Global Optimization, 87(2):709-740, 2023. An earlier version appeared at the NeurIPS 2020 Workshop.
