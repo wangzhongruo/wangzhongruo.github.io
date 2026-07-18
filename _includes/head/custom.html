@@ -45,6 +45,23 @@
   h1, h2, h3, h4, h5, h6 { font-family: var(--site-serif); }
   a { color: var(--site-accent); }
   pre, code, tt, kbd, samp, .archive__item-title code { font-family: var(--site-mono); }
+  /* Publications hierarchy: section headings larger than paper titles */
+  .archive__subtitle {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--site-ink);
+    margin: 1.9rem 0 0.6rem;
+    padding-bottom: 0.25rem;
+    border-bottom: 1px solid rgba(20, 24, 29, 0.15);
+  }
+  .archive__item-title {
+    font-size: 1.05rem;
+    font-weight: 600;
+    margin: 0.7rem 0 0.15rem;
+    line-height: 1.35;
+  }
+  .archive__item-title a { color: var(--site-accent); }
+  .archive__item-excerpt { font-size: 0.92rem; }
 </style>
 
 <!-- end custom head snippets -->
