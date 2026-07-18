@@ -11,7 +11,7 @@ I am an Applied Scientist II at Amazon Rufus, where I build foundation models an
 
 My research centers on reinforcement learning and policy optimization for large language models, and on stochastic and zeroth-order optimization.
 
-You can find me on [Google Scholar](https://scholar.google.com/citations?hl=en&user=40szSMwAAAAJ), [OpenReview](https://openreview.net/profile?id=~Zhongruo_Wang1), and [LinkedIn](https://www.linkedin.com/in/zhongruo-wang-a24a5078/).
+You can find me on [Google Scholar](https://scholar.google.com/citations?hl=en&user=40szSMwAAAAJ), [OpenReview](https://openreview.net/profile?id=~Zhongruo_Wang2), and [LinkedIn](https://www.linkedin.com/in/zhongruo-wang-a24a5078/).
 
 Experience
 ======
