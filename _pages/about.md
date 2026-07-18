@@ -19,7 +19,7 @@ At Amazon Rufus, I have worked on:
 
 * **2022–2023** — RoBERTa-based behavior foundation models and graph models for search/ads retrieval and recommendation.
 * **2024** — Instruction-following LLM-based embedding models for retrieval and recommendation.
-* **2024** — Generative recommender for customer representation ([Synergen](https://arxiv.org/abs/2509.21777)).
+* **2024** — Generative recommender for customer representation (Synergen).
 * **2025** — Small language model pretraining, midtraining, and post-training (on-policy distillation, RLVR) for shopping generative tasks such as query rewrite, final-stage ranking, and shopping mission generation.
 * **2025** — Foundation model post-training on user behavior data.
 * **2026** — Personalized search agent for user-context retrieval, based on SQL and semantic search.

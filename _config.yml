@@ -85,6 +85,8 @@ author:
 publication_category:
   llm:
     title: 'Large Language Models and Reinforcement Learning'
+  recsys:
+    title: 'Recommendation Systems'
   optimization:
     title: 'Optimization'
 
