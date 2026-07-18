@@ -22,7 +22,7 @@
 <!-- Web fonts to match Source Serif 4 (body) and JetBrains Mono (code) -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,300;8..60,400;8..60,500;8..60,600;8..60,700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,300;8..60,400;8..60,500;8..60,600;8..60,700&family=JetBrains+Mono:wght@400;500;600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
 
 <!-- Font + background overrides -->
 <style>
@@ -34,6 +34,7 @@
     --site-accent: #1a3a5c;
     --site-serif: "Source Serif 4", "Source Serif Pro", Georgia, "Times New Roman", serif;
     --site-mono: "JetBrains Mono", "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
+    --site-sans: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   }
   html, body, .page__content, .page__title, .sidebar, .author__name, .author__bio,
   .archive__item-title, .archive__item-excerpt, .masthead, .greedy-nav, .page__footer {
@@ -63,7 +64,10 @@
   .archive__item-title a { color: var(--site-accent); }
   /* Tighten the gaps between title / venue / authors within one paper */
   .archive__item > p { margin: 0.1rem 0; line-height: 1.3; }
-  .archive__item-excerpt { font-size: 0.92rem; margin: 0.1rem 0; }
+  /* Conference/venue line in monospace; author list in sans-serif */
+  .archive__item > p:not(.archive__item-excerpt) { font-family: var(--site-mono); font-size: 0.85rem; }
+  .archive__item-excerpt, .archive__item-excerpt p { font-family: var(--site-sans); }
+  .archive__item-excerpt { font-size: 0.9rem; margin: 0.1rem 0; color: var(--site-muted); }
   .archive__item-excerpt p { margin: 0; }
   /* Keep a clear separation between papers */
   .list__item { margin-bottom: 1.1rem; }
