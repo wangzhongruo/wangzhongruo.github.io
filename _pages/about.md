@@ -29,10 +29,13 @@ Publications
 {% if site.author.googlescholar %}You can also find my articles on my <a href="{{site.author.googlescholar}}">Google Scholar profile</a>.{% endif %}
 
 {% for category in site.publication_category %}
-  {% assign title_shown = false %}
-  {% for post in site.publications reversed %}
-    {% if post.category != category[0] %}{% continue %}{% endif %}
-    {% unless title_shown %}<h2>{{ category[1].title }}</h2><hr />{% assign title_shown = true %}{% endunless %}
-    {% include archive-single.html %}
-  {% endfor %}
+{% assign title_shown = false %}
+{% for post in site.publications reversed %}
+{% if post.category != category[0] %}{% continue %}{% endif %}
+{% unless title_shown %}
+<h2 id="{{ category[0] }}" class="archive__subtitle">{{ category[1].title }}</h2>
+{% assign title_shown = true %}
+{% endunless %}
+{% include archive-single.html %}
+{% endfor %}
 {% endfor %}
