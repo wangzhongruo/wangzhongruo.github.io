@@ -30,4 +30,4 @@ Research Interests
 
 Publications
 ======
-See the [Publications]({{ base_path }}/publications/) page for the full list.
+See the [home page]({{ base_path }}/) for the full list.

@@ -23,3 +23,16 @@ At Amazon Rufus, I have worked on:
 * **2025** — Small language model pretraining, midtraining, and post-training (on-policy distillation, RLVR) for shopping generative tasks such as query rewrite, final-stage ranking, and shopping mission generation.
 * **2025** — Foundation model post-training on user behavior data.
 * **2026** — Personalized search agent for user-context retrieval, based on SQL and semantic search.
+
+Publications
+======
+{% if site.author.googlescholar %}You can also find my articles on my <a href="{{site.author.googlescholar}}">Google Scholar profile</a>.{% endif %}
+
+{% for category in site.publication_category %}
+  {% assign title_shown = false %}
+  {% for post in site.publications reversed %}
+    {% if post.category != category[0] %}{% continue %}{% endif %}
+    {% unless title_shown %}<h2>{{ category[1].title }}</h2><hr />{% assign title_shown = true %}{% endunless %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endfor %}
