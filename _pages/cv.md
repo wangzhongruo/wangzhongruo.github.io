@@ -18,7 +18,7 @@ Education
 
 Experience
 ======
-* 2022–present: Applied Scientist II, Amazon Rufus
+* 2022–present: Applied Scientist II, Amazon Store Foundational AI
   * Foundation models and large language models for shopping search, retrieval, and recommendation.
   * Reinforcement learning and policy optimization, LLM-based embeddings, generative recommenders, and small language model pre/mid/post-training.
 

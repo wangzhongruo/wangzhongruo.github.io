@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Applied Scientist II at Amazon Rufus, where I build foundation models and large language models for shopping search, retrieval, and recommendation. I received my Ph.D. from the Graduate Group in Applied Mathematics ([GGAM](http://appliedmath.ucdavis.edu/)) at UC Davis in March 2022, where I was fortunate to work with [Shiqian Ma](https://www.math.ucdavis.edu/~sqma/) and [Krishnakumar Balasubramanian](https://sites.google.com/view/kriznakumar/home).
+I am an Applied Scientist II at Amazon Store Foundational AI, where I build foundation models and large language models for shopping search, retrieval, and recommendation. I received my Ph.D. from the Graduate Group in Applied Mathematics ([GGAM](http://appliedmath.ucdavis.edu/)) at UC Davis in March 2022, where I was fortunate to work with [Shiqian Ma](https://www.math.ucdavis.edu/~sqma/) and [Krishnakumar Balasubramanian](https://sites.google.com/view/kriznakumar/home).
 
 My research centers on reinforcement learning and policy optimization for large language models, and on stochastic and zeroth-order optimization.
 
@@ -15,7 +15,7 @@ You can find me on [Google Scholar](https://scholar.google.com/citations?hl=en&u
 
 Experience
 ======
-At Amazon Rufus, I have worked on:
+At Amazon Store Foundational AI, I have worked on:
 
 * **2022–2023** — RoBERTa-based behavior foundation models and graph models for search/ads retrieval and recommendation.
 * **2024** — Instruction-following LLM-based embedding models for retrieval and recommendation.
