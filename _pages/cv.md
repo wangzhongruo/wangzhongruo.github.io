@@ -12,6 +12,9 @@ redirect_from:
 Education
 ======
 * Ph.D. in Applied Mathematics (GGAM), University of California, Davis, 2022
+* B.S. in Mathematics and Physics, Colorado State University, 2013–2016
+  * Minor in Computer Science; Honors Degree; Coca-Cola Full Scholarship
+* Mathematics, East China Normal University, 2011–2013
 
 Experience
 ======
