@@ -13,9 +13,15 @@ My research centers on reinforcement learning and policy optimization for large 
 
 You can find me on [Google Scholar](https://scholar.google.com/citations?hl=en&user=40szSMwAAAAJ), [OpenReview](https://openreview.net/profile?id=~Zhongruo_Wang2), and [LinkedIn](https://www.linkedin.com/in/zhongruo-wang-a24a5078/).
 
-Selected Citations
+Research Impact
 ======
-My first-authored paper *Zeroth-Order Algorithms for Nonconvex-Strongly-Concave Minimax Problems with Improved Complexities* (Journal of Global Optimization, 2022) — cited across its NeurIPS 2020 Workshop, arXiv, and journal versions — has been cited by work published at top machine learning venues, including **NeurIPS** (8), **AISTATS** (7), **ICML** (4), **JMLR** (4), **ICLR** (3), **SIAM J. Optimization** (3), **TMLR** (2), **EMNLP** (1), and **IJCAI** (1) — 33 citations across these venues to date.
+My first-authored paper *Zeroth-Order Algorithms for Nonconvex-Strongly-Concave Minimax Problems with Improved Complexities* (Journal of Global Optimization, 2022; earlier NeurIPS 2020 Workshop and arXiv versions) develops derivative-free (zeroth-order) algorithms with improved iteration and query complexity for nonconvex-strongly-concave minimax problems, where gradients are unavailable and only function evaluations can be queried. Cited across its versions by work at NeurIPS, ICML, ICLR, JMLR, AISTATS, TMLR, and SIAM Journal on Optimization, it has contributed to two lines of research.
+
+**Theoretical foundations of min-max optimization.** The paper's complexity analysis and single-loop zeroth-order scheme provide a building block for the theory of nonconvex saddle-point and minimax optimization. Follow-up work has extended it toward faster single-loop algorithms without strong concavity ([AISTATS 2022](https://proceedings.mlr.press/v151/yang22b.html)), sharper duality-gap and Polyak–Łojasiewicz convergence rates ([JMLR](https://www.jmlr.org/papers/volume24/21-1471/21-1471.pdf)), zeroth-order alternating gradient methods for nonconvex-nonconcave problems ([JMLR 2023](https://jmlr.org/papers/v24/22-1518.html)), first-order Nash-equilibrium search in nonconvex-concave games ([SIAM Journal on Optimization 2021](https://epubs.siam.org/doi/10.1137/20M1337600)), derivative-free projection algorithms ([SIAM Journal on Optimization 2024](https://epubs.siam.org/doi/10.1137/23M1568168)), and robust, faster zeroth-order minimax methods (NeurIPS 2024).
+
+**Theoretical foundation for zeroth-order LLM training.** The same principle at the core of the paper — estimating descent directions from forward evaluations alone, without backpropagation — now underpins memory-efficient fine-tuning of large language models, where storing first-order gradients is prohibitively expensive. The paper is cited by this line of work, including MeZO ([Fine-Tuning Language Models with Just Forward Passes](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a627810151be4d13f907ac898ff7e948-Abstract-Conference.html), NeurIPS 2023), DPZero (ICML 2023), Addax (ICLR 2024), HiZOO (ICLR 2025), MUZO ([EMNLP 2025](https://aclanthology.org/2025.emnlp-main.432/)), and PaZO (NeurIPS), which adapt zeroth-order optimization to train and fine-tune LLMs at a fraction of the memory cost of first-order optimizers.
+
+Representative citing work across its NeurIPS 2020 Workshop, arXiv, and journal versions (NeurIPS, ICML, ICLR, JMLR, AISTATS, TMLR, SIAM Journal on Optimization, EMNLP, and IJCAI):
 
 | Year | Venue | Citing paper |
 |------|-------|--------------|
