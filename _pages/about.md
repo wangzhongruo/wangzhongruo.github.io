@@ -15,7 +15,7 @@ You can find me on [Google Scholar](https://scholar.google.com/citations?hl=en&u
 
 Selected Citations
 ======
-My first-authored paper *Zeroth-Order Algorithms for Nonconvex-Strongly-Concave Minimax Problems with Improved Complexities* (Journal of Global Optimization, 2022) has been cited by work published at top machine learning venues, including **NeurIPS** (7), **AISTATS** (5), **ICML** (4), **ICLR** (3), **JMLR** (3), **SIAM J. Optimization** (2), and **EMNLP** (1) — 25 citations across these venues to date.
+My first-authored paper *Zeroth-Order Algorithms for Nonconvex-Strongly-Concave Minimax Problems with Improved Complexities* (Journal of Global Optimization, 2022) — cited across its NeurIPS 2020 Workshop, arXiv, and journal versions — has been cited by work published at top machine learning venues, including **NeurIPS** (8), **AISTATS** (7), **ICML** (4), **JMLR** (4), **ICLR** (3), **SIAM J. Optimization** (3), **EMNLP** (1), and **IJCAI** (1) — 31 citations across these venues to date.
 
 | Year | Venue | Citing paper |
 |------|-------|--------------|
@@ -28,6 +28,7 @@ My first-authored paper *Zeroth-Order Algorithms for Nonconvex-Strongly-Concave 
 | 2025 | ICLR | Adversarial Machine Unlearning |
 | 2025 | ICLR | Second-Order Fine-Tuning without Pain for LLMs: A Hessian-Informed Zeroth-Order Optimizer (HiZOO) |
 | 2025 | EMNLP | MUZO: Leveraging Multiple Queries and Momentum for Zeroth-Order Fine-Tuning of Large Language Models |
+| 2025 | IJCAI | Sharpness-Aware Zeroth-Order Optimization for Graph Transformers |
 | 2024 | NeurIPS | Robust and Faster Zeroth-Order Minimax Optimization: Complexity and Applications |
 | 2024 | ICML | Delving into the Convergence of Generalized Smooth Minimax Optimization |
 | 2024 | ICLR | Addax: Utilizing Zeroth-Order Gradients to Improve Memory Efficiency and Performance of SGD for Fine-Tuning Language Models |
@@ -39,10 +40,15 @@ My first-authored paper *Zeroth-Order Algorithms for Nonconvex-Strongly-Concave 
 | 2023 | AISTATS | Stochastic Gradient Descent-Ascent: Unified Theory and New Efficient Methods |
 | 2023 | AISTATS | No-regret Sample-Efficient Bayesian Optimization for Finding Nash Equilibria with Unknown Utilities |
 | 2023 | JMLR | Fast Objective & Duality Gap Convergence for Nonconvex-Strongly-Concave Min-Max Problems with PL Condition |
+| 2023 | JMLR | Zeroth-Order Alternating Gradient Descent Ascent Algorithms for a Class of Nonconvex-Nonconcave Minimax Problems |
 | 2022 | ICML | Gradient-Free Method for Heavily Constrained Nonconvex Optimization |
+| 2022 | AISTATS | Faster Single-Loop Algorithms for Minimax Optimization without Strong Concavity |
 | 2022 | AISTATS | Zeroth-Order Methods for Convex-Concave Min-Max Problems: Applications to Decision-Dependent Risk Minimization |
 | 2022 | SIAM J. Opt. | New First-Order Algorithms for Stochastic Variational Inequalities |
+| 2021 | NeurIPS | Global Convergence to Local Minmax Equilibrium in Classes of Nonconvex Zero-Sum Games |
+| 2021 | AISTATS | Direct-Search for a Class of Stochastic Min-Max Problems |
 | 2021 | AISTATS | AdaGDA: Faster Adaptive Gradient Descent Ascent Methods for Minimax Optimization |
+| 2021 | SIAM J. Opt. | Efficient Search of First-Order Nash Equilibria in Nonconvex-Concave Smooth Min-Max Problems |
 | 2020 | JMLR | Accelerated Zeroth-Order and First-Order Momentum Methods from Mini to Minimax Optimization |
 
 Experience
