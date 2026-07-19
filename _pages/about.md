@@ -15,7 +15,7 @@ You can find me on [Google Scholar](https://scholar.google.com/citations?hl=en&u
 
 Selected Citations
 ======
-My paper *Zeroth-Order Algorithms for Nonconvex-Strongly-Concave Minimax Problems with Improved Complexities* (Journal of Global Optimization, 2022) has been cited by work published at top machine learning venues, including **NeurIPS** (7), **AISTATS** (5), **ICML** (4), **ICLR** (3), and **JMLR** (3) — 22 citations across these venues to date.
+My paper *Zeroth-Order Algorithms for Nonconvex-Strongly-Concave Minimax Problems with Improved Complexities* (Journal of Global Optimization, 2022) has been cited by work published at top machine learning venues, including **NeurIPS** (7), **AISTATS** (5), **ICML** (4), **ICLR** (3), **JMLR** (3), and **SIAM J. Optimization** (2) — 24 citations across these venues to date.
 
 | Year | Venue | Citing paper |
 |------|-------|--------------|
@@ -30,6 +30,7 @@ My paper *Zeroth-Order Algorithms for Nonconvex-Strongly-Concave Minimax Problem
 | 2024 | NeurIPS | Robust and Faster Zeroth-Order Minimax Optimization: Complexity and Applications |
 | 2024 | ICML | Delving into the Convergence of Generalized Smooth Minimax Optimization |
 | 2024 | ICLR | Addax: Utilizing Zeroth-Order Gradients to Improve Memory Efficiency and Performance of SGD for Fine-Tuning Language Models |
+| 2024 | SIAM J. Opt. | Derivative-Free Alternating Projection Algorithms for General Nonconvex-Concave Minimax Problems |
 | 2023 | NeurIPS | Fine-Tuning Language Models with Just Forward Passes (MeZO) |
 | 2023 | NeurIPS | SimFBO: Towards Simple, Flexible and Communication-Efficient Federated Bilevel Learning |
 | 2023 | ICML | DPZero: Private Fine-Tuning of Language Models without Backpropagation |
@@ -39,6 +40,7 @@ My paper *Zeroth-Order Algorithms for Nonconvex-Strongly-Concave Minimax Problem
 | 2023 | JMLR | Fast Objective & Duality Gap Convergence for Nonconvex-Strongly-Concave Min-Max Problems with PL Condition |
 | 2022 | ICML | Gradient-Free Method for Heavily Constrained Nonconvex Optimization |
 | 2022 | AISTATS | Zeroth-Order Methods for Convex-Concave Min-Max Problems: Applications to Decision-Dependent Risk Minimization |
+| 2022 | SIAM J. Opt. | New First-Order Algorithms for Stochastic Variational Inequalities |
 | 2021 | AISTATS | AdaGDA: Faster Adaptive Gradient Descent Ascent Methods for Minimax Optimization |
 | 2020 | JMLR | Accelerated Zeroth-Order and First-Order Momentum Methods from Mini to Minimax Optimization |
 
