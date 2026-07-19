@@ -15,7 +15,7 @@ You can find me on [Google Scholar](https://scholar.google.com/citations?hl=en&u
 
 Selected Citations
 ======
-My first-authored paper *Zeroth-Order Algorithms for Nonconvex-Strongly-Concave Minimax Problems with Improved Complexities* (Journal of Global Optimization, 2022) — cited across its NeurIPS 2020 Workshop, arXiv, and journal versions — has been cited by work published at top machine learning venues, including **NeurIPS** (8), **AISTATS** (7), **ICML** (4), **JMLR** (4), **ICLR** (3), **SIAM J. Optimization** (3), **EMNLP** (1), and **IJCAI** (1) — 31 citations across these venues to date.
+My first-authored paper *Zeroth-Order Algorithms for Nonconvex-Strongly-Concave Minimax Problems with Improved Complexities* (Journal of Global Optimization, 2022) — cited across its NeurIPS 2020 Workshop, arXiv, and journal versions — has been cited by work published at top machine learning venues, including **NeurIPS** (8), **AISTATS** (7), **ICML** (4), **JMLR** (4), **ICLR** (3), **SIAM J. Optimization** (3), **TMLR** (2), **EMNLP** (1), and **IJCAI** (1) — 33 citations across these venues to date.
 
 | Year | Venue | Citing paper |
 |------|-------|--------------|
@@ -29,6 +29,8 @@ My first-authored paper *Zeroth-Order Algorithms for Nonconvex-Strongly-Concave 
 | 2025 | ICLR | Second-Order Fine-Tuning without Pain for LLMs: A Hessian-Informed Zeroth-Order Optimizer (HiZOO) |
 | 2025 | EMNLP | MUZO: Leveraging Multiple Queries and Momentum for Zeroth-Order Fine-Tuning of Large Language Models |
 | 2025 | IJCAI | Sharpness-Aware Zeroth-Order Optimization for Graph Transformers |
+| 2025 | TMLR | Min-Max Optimisation for Nonconvex-Nonconcave Functions Using a Random Zeroth-Order Extragradient Algorithm |
+| 2025 | TMLR | A Framework for Finding Local Saddle Points in Two-Player Zero-Sum Black-Box Games |
 | 2024 | NeurIPS | Robust and Faster Zeroth-Order Minimax Optimization: Complexity and Applications |
 | 2024 | ICML | Delving into the Convergence of Generalized Smooth Minimax Optimization |
 | 2024 | ICLR | Addax: Utilizing Zeroth-Order Gradients to Improve Memory Efficiency and Performance of SGD for Fine-Tuning Language Models |
