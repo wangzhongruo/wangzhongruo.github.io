@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Applied Scientist II at Amazon Store Foundational AI, where I build foundation models and large language models for shopping search, retrieval, and recommendation. I received my Ph.D. from the Graduate Group in Applied Mathematics ([GGAM](http://appliedmath.ucdavis.edu/)) at UC Davis in March 2022, where I was fortunate to work with [Shiqian Ma](https://www.math.ucdavis.edu/~sqma/) and [Krishnakumar Balasubramanian](https://sites.google.com/view/kriznakumar/home).
+I am an Applied Scientist II at Amazon Store Foundational AI, where I build foundation models and large language models for shopping search, retrieval, and recommendation. I received my Ph.D. from the Graduate Group in Applied Mathematics ([GGAM](http://appliedmath.ucdavis.edu/)) at UC Davis in March 2022.
 
 My research centers on reinforcement learning and policy optimization for large language models, and on stochastic and zeroth-order optimization.
 
