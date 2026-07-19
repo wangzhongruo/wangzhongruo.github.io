@@ -15,7 +15,7 @@ You can find me on [Google Scholar](https://scholar.google.com/citations?hl=en&u
 
 Selected Citations
 ======
-My paper *Zeroth-Order Algorithms for Nonconvex-Strongly-Concave Minimax Problems with Improved Complexities* (Journal of Global Optimization, 2022) has been cited by work published at top machine learning venues, including **NeurIPS** (7), **AISTATS** (5), **ICML** (4), **ICLR** (3), **JMLR** (3), and **SIAM J. Optimization** (2) — 24 citations across these venues to date.
+My first-authored paper *Zeroth-Order Algorithms for Nonconvex-Strongly-Concave Minimax Problems with Improved Complexities* (Journal of Global Optimization, 2022) has been cited by work published at top machine learning venues, including **NeurIPS** (7), **AISTATS** (5), **ICML** (4), **ICLR** (3), **JMLR** (3), **SIAM J. Optimization** (2), and **EMNLP** (1) — 25 citations across these venues to date.
 
 | Year | Venue | Citing paper |
 |------|-------|--------------|
@@ -27,6 +27,7 @@ My paper *Zeroth-Order Algorithms for Nonconvex-Strongly-Concave Minimax Problem
 | 2025 | NeurIPS | Zeroth-Order Optimization Finds Flat Minima |
 | 2025 | ICLR | Adversarial Machine Unlearning |
 | 2025 | ICLR | Second-Order Fine-Tuning without Pain for LLMs: A Hessian-Informed Zeroth-Order Optimizer (HiZOO) |
+| 2025 | EMNLP | MUZO: Leveraging Multiple Queries and Momentum for Zeroth-Order Fine-Tuning of Large Language Models |
 | 2024 | NeurIPS | Robust and Faster Zeroth-Order Minimax Optimization: Complexity and Applications |
 | 2024 | ICML | Delving into the Convergence of Generalized Smooth Minimax Optimization |
 | 2024 | ICLR | Addax: Utilizing Zeroth-Order Gradients to Improve Memory Efficiency and Performance of SGD for Fine-Tuning Language Models |
