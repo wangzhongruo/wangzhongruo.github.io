@@ -15,7 +15,7 @@ Education
 * B.S. in Mathematics and Physics, Colorado State University, 2013–2016
   * Minor in Computer Science
   * Honors Degree
-  * Coca-Cola Full Scholarship (1 student among 7 schools per year)
+  * Coca-Cola Full Scholarship (1 student among 7 985/211 Chinese universities per year)
 * Mathematics, East China Normal University, 2011–2013
 
 Experience
